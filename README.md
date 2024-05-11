@@ -1,2 +1,3 @@
 # personalBlogProject
-Vue.js(Vue2)+Node.js+MongoDB 实现一个前后端分离的个人博客网站。
+### personBlogProject--frontEndproject
+Vue2 + Vuex + axios + ElementUI实现个人博客前端项目。
